@@ -15,3 +15,7 @@ python -m venv venv
 ```
 pip install WarThunder
 ```
+
+
+https://github.com/user-attachments/assets/7c20c84a-a845-4bb4-8034-dfd359b6ee33
+
